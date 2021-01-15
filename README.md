@@ -6,7 +6,7 @@
   /></a>
 </p>
 <p align="center">
-  <strong>The world's easiest, most powerful stock checker</strong>
+  <strong>The world's easiest,, most powerful stock checker</strong>
 </p>
 <p align="center">
   <a href="https://github.com/jef/streetmerchant/actions?query=workflow%3Aci"
